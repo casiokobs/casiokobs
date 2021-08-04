@@ -1,12 +1,16 @@
 ### Olá! Bem vindo ao meu perfil 💻
-<img src="https://komarev.com/ghpvc/?username=casiokobs&color=blue" alt="casiokobs"/>
+Voce e outras 
+<img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs"/>
+Pessoas visitaram meu perfil :D
 
-<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-    
+Essas são algumas das ferramentas na qual ja utilizei:
+<div style="display:inline_block">
+    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+</div>
 <!--
 **casiokobs/casiokobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
