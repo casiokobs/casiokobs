@@ -5,6 +5,8 @@
 <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+<img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+    
 <!--
 **casiokobs/casiokobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
