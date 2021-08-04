@@ -1,5 +1,10 @@
 ### Olá! Bem vindo ao meu perfil 💻
 <img src="https://komarev.com/ghpvc/?username=casiokobs&color=blue" alt="casiokobs"/>
+
+<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+<img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
 <!--
 **casiokobs/casiokobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
