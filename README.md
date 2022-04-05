@@ -5,6 +5,8 @@ Voce e outras <img src="https://komarev.com/ghpvc/?username=casiokobs&label=_�
 
 Atualmente estou cursando a 5º fase de Eng. de Software na UNC.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs)](https://github.com/casiokobs/github-readme-stats)
+
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
     <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
