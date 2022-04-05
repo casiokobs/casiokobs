@@ -1,11 +1,9 @@
 ### Olá! Bem vindo ao meu perfil 💻
-Voce e outras 
-<img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs"/>
-Pessoas visitaram meu perfil :D
+Voce e outras <img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs"/>Pessoas visitaram meu perfil :D
 
  <img width="1200" width="30" src="https://miro.medium.com/max/1400/1*tGHAV9yItR_FISNYM7HGqQ.gif"/>
 
-Atualmente estou cursando a 5º fase de Eng. de Software na UNC 
+Atualmente estou cursando a 5º fase de Eng. de Software na UNC.
 
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
