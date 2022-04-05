@@ -5,6 +5,8 @@ Pessoas visitaram meu perfil :D
 
  <img width="1200" width="30" src="https://miro.medium.com/max/1400/1*tGHAV9yItR_FISNYM7HGqQ.gif"/>
 
+Atualmente estou cursando a 5º fase de Eng. de Software na UNC 
+
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
     <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
