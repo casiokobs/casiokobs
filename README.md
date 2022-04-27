@@ -9,9 +9,11 @@ Atualmente estou cursando a 5º fase de Eng. de Software na UNC.
 
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
-    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-    <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-    <img height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
+    <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 </div>
