@@ -1,5 +1,6 @@
 ### Olá! Bem vindo ao meu perfil 💻
-Total de visitas : <img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs"/>
+Total de visitas : <img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs" style="margin: -6px;
+"/>
 
  <img width="600" src="https://miro.medium.com/max/1400/1*tGHAV9yItR_FISNYM7HGqQ.gif"/>
 
