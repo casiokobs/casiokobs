@@ -4,7 +4,7 @@ Total de visitas : <img src="https://komarev.com/ghpvc/?username=casiokobs&label
 
  <img width="600" src="https://miro.medium.com/max/1400/1*tGHAV9yItR_FISNYM7HGqQ.gif"/>
 
-Atualmente estou cursando a 5º fase de Eng. de Software na UNC.
+Atualmente estou cursando a 6º fase de Eng. de Software na UNC.
   
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs&layout=compact&langs_count=7&theme=highcontrast"/>
 <img height="190px" src="https://github-readme-stats.vercel.app/api?username=casiokobs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
