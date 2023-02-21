@@ -9,6 +9,10 @@ Atualmente estou cursando a 6º fase de Eng. de Software na UNC.
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs&layout=compact&langs_count=7&theme=highcontrast"/>
 <img height="190px" src="https://github-readme-stats.vercel.app/api?username=casiokobs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
+<a href="http://www.github.com/casiokobs">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=casiokobs&theme=highcontrast&border_radius=&locale=pt_BR" />
+</a>
+
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
@@ -22,7 +26,4 @@ Essas são algumas das ferramentas na qual ja utilizei:
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
-
-    
-    
 </div>
