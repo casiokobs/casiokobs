@@ -4,7 +4,7 @@
 <img width="300" src="https://profile-counter.glitch.me/casiokobs/count.svg"/><br>
 </div>
 
-<p>Estou cursando Eng. de Software na UNC.</p>
+<p>Estou cursando a faculdade de Engenharia de Software.</p>
 <div style="display:flex">  
  <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs&layout=compact&langs_count=7&theme=highcontrast"/>
  <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api?username=casiokobs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
