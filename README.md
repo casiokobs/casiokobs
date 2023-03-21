@@ -11,7 +11,9 @@
  <img height="190px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=casiokobs&theme=highcontrast&border_radius=&locale=pt_BR" />
 </div>
 
-Essas são algumas das ferramentas na qual ja utilizei:
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/321396074323640330?theme=black&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=MASTER)](https://discord.com/users/321396074323640330)
+
+Um fragmento do meu conhecimento:
 <div style="display:inline_block">
     <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
     <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
