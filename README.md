@@ -1,17 +1,15 @@
-### Olá! Bem vindo ao meu perfil 💻
-Total de visitas : <img src="https://komarev.com/ghpvc/?username=casiokobs&label=_💻" alt="casiokobs" style="margin: -6px;
-"/>
+<div style="display: flex;flex-direction: column;margin-left: 40%;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=F7AA00&background=FF000000&center=true&multiline=true&height=60&lines=Casio+Kobs+Lasch;Seja+bem+vindo+ao+meu+perfil+%3AD" alt="Typing SVG"/><br>
+<img width="300" src="https://media.tenor.com/images/213a4c8c6fb278cf2fb10bcc0da1b68d/tenor.gif"/><br>
+<img width="300" src="https://profile-counter.glitch.me/casiokobs/count.svg"/><br>
+</div>
 
- <img width="600" src="https://miro.medium.com/max/1400/1*tGHAV9yItR_FISNYM7HGqQ.gif"/>
-
-Atualmente estou cursando a 6º fase de Eng. de Software na UNC.
-  
-<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs&layout=compact&langs_count=7&theme=highcontrast"/>
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=casiokobs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-
-<a href="http://www.github.com/casiokobs">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=casiokobs&theme=highcontrast&border_radius=&locale=pt_BR" />
-</a>
+<p>Estou cursando Eng. de Software na UNC.</p>
+<div style="display:flex">  
+ <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=casiokobs&layout=compact&langs_count=7&theme=highcontrast"/>
+ <img height="190px" width="400px" src="https://github-readme-stats.vercel.app/api?username=casiokobs&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+ <img height="190px" width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=casiokobs&theme=highcontrast&border_radius=&locale=pt_BR" />
+</div>
 
 Essas são algumas das ferramentas na qual ja utilizei:
 <div style="display:inline_block">
